@@ -1,0 +1,12 @@
+include ':pr10'
+include ':pr9'
+include ':pr8'
+include ':pr7'
+include ':pr6'
+include ':pr5'
+include ':pr4'
+include ':pr3'
+include ':pr2'
+include ':pr1'
+include ':app'
+rootProject.name = "PR_PME_Android"
