@@ -1,5 +1,4 @@
 package com.example.pr6;
-
 import androidx.appcompat.app.AppCompatActivity;
 import ru.startandroid.p0211twoactivity.R;
 
