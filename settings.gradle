@@ -10,3 +10,5 @@ include ':pr2'
 include ':pr1'
 include ':app'
 rootProject.name = "PR_PME_Android"
+include ':project_22'
+include ':project23'
